@@ -5,12 +5,13 @@
 
 
 ##  1 - LA PRIMER  ENTREGA SERÁ LO SIGUIENTE: 
-1- El semáforo tiene que tener 2 leds de cada color como mínimo, en caso de que uno se  rompa. 
-2- Tiene que implementar los tiempos correctos como se detallan a continuación. 3- El verde dura 5 segundos. 
-4- El amarillo dura 3 segundos. 
-5- Rojo dura 5 segundos. 
-6- Tiene que tener señalización para personas no videntes como se detalla a  continuación. (Buzzer o piezo)
-7- Durante el rojo: Tiene que sonar 2 vez por segundo en un tono FUERTE. 
+- 1- El semáforo tiene que tener 2 leds de cada color como mínimo, en caso de que uno se  rompa. 
+- 2- Tiene que implementar los tiempos correctos como se detallan a continuación.  
+- 3- El verde dura 5 segundos. 
+- 4- El amarillo dura 3 segundos. 
+- 5- Rojo dura 5 segundos. 
+- 6- Tiene que tener señalización para personas no videntes como se detalla a  continuación. (Buzzer o piezo)
+- 7- Durante el rojo: Tiene que sonar 2 vez por segundo en un tono FUERTE. 
 
 ## 2 - LA SEGUNDA ENTREGA AGREGA LO SIGUIENTE EN UN NUEVO PROYECTO, 
 8-  Durante el amarillo: Tiene que sonar 1 vez por segundo en un tono SUAVE. 
