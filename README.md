@@ -14,6 +14,8 @@
 ### DOCUMENTACIÓN ###
 
 
+
+
 ## 2 - LA SEGUNDA ENTREGA AGREGA LO SIGUIENTE EN UN NUEVO PROYECTO, 
 - 8-  Durante el amarillo: Tiene que sonar 1 vez por segundo en un tono SUAVE. 
 - 9- Al cambiar de verde a amarillo debe titilar 3 veces el verde antes de pasar al amarillo
@@ -30,11 +32,6 @@
 ### DOCUMENTACIÓN ###
 
 - 
-
-
-<br>
-
-## Contactame
 
 
 ## 👀 
