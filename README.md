@@ -29,10 +29,7 @@
 - 13-  Agregar un botón (pull down) que al presionarlo se active la funcionalidad de luz verde con más tiempo, dándole a la persona que lo necesite más tiempo para cruzar la calle , sirve para la próxima luz verde y solo para la próxima luz verde después de presionar el botón. el tiempo se duplicará. 
 - 14-  Colocar dos semáforos de calles que se crucen  y programarlos para que funcionen en conjunto.
 
-### DOCUMENTACIÓN ###
-
 - 
-
 
 ## 👀 
 
