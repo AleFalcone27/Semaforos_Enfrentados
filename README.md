@@ -32,6 +32,6 @@
 - [Gabriel Fernandez Waisberg](https://www.tinkercad.com/things/0RdaOw0HQTC-copy-of-dojo-2/editel?sharecode=ZxHEl9Q67c_hKG1IlrNU0bPgRVn28OKnEZZbxegi25g)
 - Efren David
 - [Alejo Falcone](https://www.tinkercad.com/things/9bwCCOMuFfW)
-- [Ignacio Fadon]()
+- [Ignacio Fadon](https://www.tinkercad.com/things/2p5GQIGUFUP-copy-of-dojo-1/editel?sharecode=G9psCEdKSoA4qK60wavToCPAxX4I_tY_HHd9OPQHZhA )
 
 
