@@ -23,7 +23,7 @@
 
 
 ## PREVIEW DEL PROYETO 👀 ##
-  [img](PREVIEW_DOJO.png)
+  ![img](PREVIEW_DOJO.png)
 
 
 ## INTEGRANTES Y LOS VINCULOS A SUS PROYECTOS ##
