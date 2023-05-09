@@ -1,5 +1,5 @@
 
-# 🧑‍💻 DOJO H 
+# 🧑‍💻 DOJO - H 
 
 ###  1 - LA PRIMER  ENTREGA SERÁ LO SIGUIENTE: 
 - 1- El semáforo tiene que tener 2 leds de cada color como mínimo, en caso de que uno se  rompa. 
