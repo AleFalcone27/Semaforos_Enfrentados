@@ -22,7 +22,8 @@
 - 14-  Colocar dos semáforos de calles que se crucen  y programarlos para que funcionen en conjunto.
 
 
-##  ![PREVIEW DEL PROYETO 👀](PREVIEW_DOJO.png)
+## PREVIEW DEL PROYETO 👀 ##
+  [img](PREVIEW_DOJO.png)
 
 
 ## INTEGRANTES Y LOS VINCULOS A SUS PROYECTOS ##
